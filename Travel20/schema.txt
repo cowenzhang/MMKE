@@ -1,0 +1,8 @@
+{'predicate': '景点级别', 'subject_type': 'sight', 'object_type': 'text'}
+{'predicate': '景点适宜季节', 'subject_type': 'sight', 'object_type': 'text'}
+{'predicate': '景点所在位置', 'subject_type': 'sight', 'object_type': 'text'}
+{'predicate': '景点尺寸', 'subject_type': 'sight', 'object_type': 'text'}
+{'predicate': '景点别名', 'subject_type': 'sight', 'object_type': 'text'}
+{'predicate': '景点开放时间', 'subject_type': 'sight', 'object_type': 'text'}
+{'predicate': '景点始建朝代', 'subject_type': 'sight', 'object_type': 'text'}
+{'predicate': '景点占地面积', 'subject_type': 'sight', 'object_type': 'text'}
