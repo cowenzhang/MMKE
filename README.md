@@ -6,5 +6,5 @@ DuIE2.0 and Travel20 are both Chinese datasets.
 - [Travel20], we release a novel RE dataset named Travel20 for non-predefined relation extraction.
 
 ACE05 and CoNLL04 are both English datasets.
-- [ACE05] (https://catalog.ldc.upenn.edu/LDC2006T06)contains English articles from different domains, such as newswire, broadcast conversation and weblog. 
-- [CoNLL04] (https://cogcomp.seas.upenn.edu/Data/ER/conll04.corp)consists of English news articles from the Wall Street Journal and Associated Press. We use the [data](https://github.com/bekou/multihead_joint_entity_relation_extraction/tree/master/data/CoNLL04) split by Gupta et al.
+- [ACE05] (https://catalog.ldc.upenn.edu/LDC2006T06) contains English articles from different domains, such as newswire, broadcast conversation and weblog. 
+- [CoNLL04] (https://cogcomp.seas.upenn.edu/Data/ER/conll04.corp) consists of English news articles from the Wall Street Journal and Associated Press. We use the [data](https://github.com/bekou/multihead_joint_entity_relation_extraction/tree/master/data/CoNLL04) split by Gupta et al.
