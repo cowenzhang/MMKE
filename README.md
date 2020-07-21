@@ -1,4 +1,5 @@
 This repository contains the core code and datasets for the MMKE System. 
+The demonstration video is available at this link: https://youtu.be/PMYIcDbxCKQ.
 
 ## Datasets
 DuIE2.0 and Travel20 are both Chinese datasets. 
